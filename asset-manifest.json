@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/swarm-admin/static/css/main.c3436668.chunk.css",
-    "main.js": "/swarm-admin/static/js/main.4b51d39c.chunk.js",
-    "main.js.map": "/swarm-admin/static/js/main.4b51d39c.chunk.js.map",
-    "runtime-main.js": "/swarm-admin/static/js/runtime-main.be73cf76.js",
-    "runtime-main.js.map": "/swarm-admin/static/js/runtime-main.be73cf76.js.map",
+    "main.js": "/swarm-admin/static/js/main.9c19fbb6.chunk.js",
+    "main.js.map": "/swarm-admin/static/js/main.9c19fbb6.chunk.js.map",
+    "runtime-main.js": "/swarm-admin/static/js/runtime-main.492f9f11.js",
+    "runtime-main.js.map": "/swarm-admin/static/js/runtime-main.492f9f11.js.map",
     "static/css/2.1a02f21c.chunk.css": "/swarm-admin/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.39bd5890.chunk.js": "/swarm-admin/static/js/2.39bd5890.chunk.js",
-    "static/js/2.39bd5890.chunk.js.map": "/swarm-admin/static/js/2.39bd5890.chunk.js.map",
-    "static/js/3.311eb2b5.chunk.js": "/swarm-admin/static/js/3.311eb2b5.chunk.js",
-    "static/js/3.311eb2b5.chunk.js.map": "/swarm-admin/static/js/3.311eb2b5.chunk.js.map",
+    "static/js/2.397a8475.chunk.js": "/swarm-admin/static/js/2.397a8475.chunk.js",
+    "static/js/2.397a8475.chunk.js.map": "/swarm-admin/static/js/2.397a8475.chunk.js.map",
+    "static/js/3.8ac5581a.chunk.js": "/swarm-admin/static/js/3.8ac5581a.chunk.js",
+    "static/js/3.8ac5581a.chunk.js.map": "/swarm-admin/static/js/3.8ac5581a.chunk.js.map",
     "index.html": "/swarm-admin/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/swarm-admin/static/css/2.1a02f21c.chunk.css.map",
     "static/css/main.c3436668.chunk.css.map": "/swarm-admin/static/css/main.c3436668.chunk.css.map",
-    "static/js/2.39bd5890.chunk.js.LICENSE.txt": "/swarm-admin/static/js/2.39bd5890.chunk.js.LICENSE.txt"
+    "static/js/2.397a8475.chunk.js.LICENSE.txt": "/swarm-admin/static/js/2.397a8475.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.be73cf76.js",
+    "static/js/runtime-main.492f9f11.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.39bd5890.chunk.js",
+    "static/js/2.397a8475.chunk.js",
     "static/css/main.c3436668.chunk.css",
-    "static/js/main.4b51d39c.chunk.js"
+    "static/js/main.9c19fbb6.chunk.js"
   ]
 }
